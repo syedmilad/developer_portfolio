@@ -29,15 +29,15 @@ export const projects = [
     visit: "https://github.com/syedmilad/Gerich-Restaurant",
     id: 2,
   },
-  // {
-  //   title: 'Unichat',
-  //   description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
-  //   image: '/images/4.jpg',
-  //   tags: ['React', 'ChatEngine', 'Firebase'],
-  //   source: 'https://google.com',
-  //   visit: 'https://google.com',
-  //   id: 3,
-  // },
+  {
+    title: 'GPT-3',
+    description: "This is a code repository for the gpt-3. using React & Custom CSS with BEM styling.",
+    image: '/images/gpt3.png',
+    tags: ['React', 'Custom Css', 'BEM'],
+    source: 'https://gpt-3-delta-sandy.vercel.app/',
+    visit: 'https://github.com/syedmilad/GPT3',
+    id: 3,
+  },
 ];
 
 export const TimeLineData = [
